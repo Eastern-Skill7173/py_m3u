@@ -12,7 +12,7 @@ This project is available on [pypi.org](https://pypi.org/), therefore, you can e
 install this project through pip:
 
    ```
-   pip install py_m3u
+   pip install py-m3u
    ```
 
 ### From Source
@@ -121,9 +121,9 @@ or maybe you would like to contribute to the project
 
 After cloning the repo, switch to its directory, and run the following command through your terminal:
 
-    ```
-    pip install .
-    ```
+   ```
+   pip install .
+   ```
 
 ## Built With
 
