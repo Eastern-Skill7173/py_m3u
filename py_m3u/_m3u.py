@@ -193,9 +193,9 @@ class M3UParser:
         """
         Class-method to dump python content into M3U strings
 
-        Paramters
+        Parameters
         ---------
-        *args : AudioFileRef, AudioDirRef, _Directive
+        args : AudioFileRef, AudioDirRef, _Directive
             Arguments passed to be parsed to M3U strings
 
         Returns
